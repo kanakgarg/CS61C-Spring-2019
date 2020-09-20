@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././string-helpers.h
+
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit/test.c
+stddef.h
+-
+string-helpers.h
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit/string-helpers.h
+CUnit/Basic.h
+-
+CUnit/TestDB.h
+-
+test.h
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit/test.h
+
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit/test.h
+

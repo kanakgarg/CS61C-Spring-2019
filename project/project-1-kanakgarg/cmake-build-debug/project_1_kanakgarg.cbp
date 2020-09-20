@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project_1_kanakgarg"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_1_kanakgarg">
+				<Option output="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/project_1_kanakgarg" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/."/>
+					<Add directory="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_1_kanakgarg"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project_1_kanakgarg/fast">
+				<Option output="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/project_1_kanakgarg" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/."/>
+					<Add directory="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_1_kanakgarg/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kanakgarg/Desktop/CS\ GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/main.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/preprocessor.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/preprocessor.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/string-helpers.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/string-helpers.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit/test.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tests/cunit/test.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tokenizer-errors.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tokenizer-errors.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tokenizer.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tokenizer.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tokens.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/tokens.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/utils.c">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/utils.h">
+			<Option target="project_1_kanakgarg"/>
+		</Unit>
+		<Unit filename="/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

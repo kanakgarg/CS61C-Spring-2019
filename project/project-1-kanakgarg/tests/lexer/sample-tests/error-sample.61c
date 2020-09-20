@@ -1,0 +1,15 @@
+// This is a sample dinky1c bad tokens
+
+// Valid identifiers
+aoeuaoeu
+aoeu6aoeu
+
+// Invalid tokens
+#@\\\\
+
+// Bad char.  Should be lexed as ERROR up to the close ' or a newline
+'ao'
+
+// Bad str, should be lexed as ERROR up to the close " or a newline
+"aoeuaoeu 
+"

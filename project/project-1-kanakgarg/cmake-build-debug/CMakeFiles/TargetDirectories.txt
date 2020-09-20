@@ -1,0 +1,3 @@
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kanakgarg/Desktop/CS GANG/cs61c/project/project-1-kanakgarg/cmake-build-debug/CMakeFiles/project_1_kanakgarg.dir

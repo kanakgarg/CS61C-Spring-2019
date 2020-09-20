@@ -1,0 +1,4 @@
+benchmark
+benchmark_baseline
+test/out
+*.o

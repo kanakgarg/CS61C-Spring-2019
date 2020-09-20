@@ -1,0 +1,9 @@
+ls -l
+mv -file -source
+chmod
+pwd
+nm -online
+find
+top
+exit
+interdiff

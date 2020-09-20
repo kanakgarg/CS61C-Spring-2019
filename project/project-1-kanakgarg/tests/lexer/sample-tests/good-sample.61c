@@ -1,0 +1,3 @@
+char name  = '\n';
+
+// Bad str, should be lexed as ERROR up to the close " or a newline Bad str, should be lexed as ERROR up to the close " or a newline

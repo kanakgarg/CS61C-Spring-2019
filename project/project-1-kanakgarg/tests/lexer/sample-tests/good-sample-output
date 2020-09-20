@@ -1,0 +1,5 @@
+[Token: int ]
+[Token: Identifier: my_age ]
+[Token: = ]
+[Token: Integer: 6 ]
+[Token: ; ]

@@ -1,0 +1,12 @@
+#include "../../../cgen-lib/print.h"
+
+int main () {
+  int i = 5;
+  bool b = true;
+  char *str = "hi there";
+  PrintInt (i);
+  PrintBool (b);
+  PrintString (str);
+  PrintChar (*(str + 5));
+  return 0;
+}
